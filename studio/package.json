@@ -7,9 +7,10 @@
   "author": "Dzmitry Sviryn <svirins@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
-    "start": "sanity start",
+    "start": "SANITY_ACTIVE_ENV=development sanity start",
+    "test": "sanity check",
     "build": "sanity build"
-  },
+},
   "keywords": [
     "sanity"
   ],
