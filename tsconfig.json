@@ -19,7 +19,7 @@
     "**/*.ts",
     "**/*.tsx",
     "next.config.js"
-   ],
+, "components/layout/main.jsx"   ],
   "exclude": [
     "node_modules", "studio"
   ]
