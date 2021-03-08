@@ -19,11 +19,6 @@ export const HeroTopText = (children) => (
   </p>
 );
 
-export const List = styled.ul`
-  ${tw`text-lg font-medium text-gray-700 list-disc list-inside`}
-`;
-
-export const ListCheck = styled.ul`
-  ${tw`text-lg font-medium text-gray-700 list-none`}
-  &before: content: '✓'
+export const DDList = styled.dd`
+  ${tw`text-lg font-medium text-gray-700 `}
 `;
