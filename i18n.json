@@ -1,0 +1,9 @@
+{
+  "locales": ["ua", "ru"],
+  "defaultLocale": "ua",
+  "pages": {
+    "*": ["common"],
+    "/": ["home", "example"],
+    "/about": ["about"]
+  }
+}

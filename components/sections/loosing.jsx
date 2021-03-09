@@ -24,7 +24,7 @@ export const CallToAction = ({ headingText }) => (
       </DDlist>
     </div>
     <div className="flex w-full max-w-5xl mx-auto y-0 ">
-    // TODO: Add text block of fetch it from sanity
+      // TODO: Add text block of fetch it from sanity
     </div>
   </section>
 );

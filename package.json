@@ -21,6 +21,7 @@
         "next-sanity": "^0.1.10",
         "next-sanity-extra": "^0.2.3",
         "next-seo": "^4.20.0",
+        "next-translate": "^1.0.4",
         "postcss": "^8.2.7",
         "react": "17.0.1",
         "react-dom": "17.0.1",
